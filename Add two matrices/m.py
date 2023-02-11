@@ -10,4 +10,5 @@ for i in range(len(A)):
     for j in range(len(A[0])):
         Final[i][j] = A[i][j] + B[i][j] 
 for r in Final:
-    print(r)               
+    print("Final Result is:", r) 
+                  

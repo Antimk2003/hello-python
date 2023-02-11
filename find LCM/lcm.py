@@ -10,4 +10,5 @@ while(True):
         lcm = digit
         break 
     digit += 1
-print("the LCM is :",lcm)       
+print("the LCM is :",lcm)
+print("LCM Program is completed")       
